@@ -1,0 +1,18 @@
+body {
+    font-family: "Consolas", sans-serif;
+    margin: 0; 
+}
+.container {
+    width: 1236px;
+    margin: 0 auto; 
+}
+.fig {
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    text-align: center;
+}
+h2 {
+    color: gray;
+}

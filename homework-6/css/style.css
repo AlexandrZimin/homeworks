@@ -1,0 +1,88 @@
+body {
+    font-family: "Merriweather", "Varta", sans-serif; 
+    background-color: #F3EEE8;
+    margin: 0px;
+}
+
+.container1440 {
+    width: 1440px;
+    margin: 0 auto;
+}
+
+.background-header-pick{
+    position: absolute;
+    right: 0px;
+    background-image: url(/images/lamps.jpg);
+    background-repeat: no-repeat;
+    height: 900px;
+    width: 50%;
+}
+
+.transparant-button {
+    border: none;
+    padding: 0px;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.container1140 {
+    width: 1140px;
+    margin: 0 auto;
+}
+
+.mgr-4 {
+    margin-right: -4px;
+}
+
+.left-side {
+    width: 50%;
+    display: inline-block;
+}
+
+.left-side p {
+    margin: 0px;
+    margin-top: 55px;
+    display: inline-block;
+    margin-right: 32px;
+    color: #A06056;
+    font-size: 34px;
+    font-weight: 700;
+}
+.vertical-position{
+    vertical-align: middle;
+}
+.nav-buttons {
+    font-family: "Varta";
+    font-size: 18px;
+    font-weight: 400;
+    padding: 0px;
+    color: #706458;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+    margin-right: 24px;
+}
+
+.home-design {
+    font-family: "Varta";
+    font-size: 14px;
+    margin: 0px;
+    color: #A06056;
+    font-weight: 700;
+}
+
+.interiors {
+    font-size: 50px;
+    margin: 0px;
+    margin-top: 50px;
+    color: #A06056;
+    font-weight: 300;
+}
+
+.interiors-description {
+    font-family: "Varta";
+    font-size: 22px;
+    margin: 0px;
+    margin-top: 30px;
+    color: #706458;
+}

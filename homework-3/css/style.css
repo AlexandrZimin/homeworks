@@ -1,0 +1,110 @@
+body {
+    font-family: "SVN-Gilroy", sans-serif;
+    margin: 0; 
+    background-color: #FDFDFD;
+}
+a {
+    color: black;
+    text-decoration: none; 
+}
+.container {
+    width: 1180px;
+    margin: 0 auto;   
+    }
+.left-header-part
+{
+    width: 49%;
+    display: inline-block;
+    height: 62px;
+}
+.left-header-part h2 {
+    color: #003459;
+    }
+.right-header-part {
+    width: 50%;
+    display: inline-block;
+    text-align: right;
+}
+.button-p {
+    vertical-align: middle;
+    display: inline-block;
+    margin: 0px;
+    color: #003459;
+    margin-right: 8px;
+}
+.header-button-style {
+    padding: 12px 28px;
+    font-size: 14px;
+    border: 1.5px solid #003459;
+    border-radius: 57px;
+}
+.button-o {
+    background-color: transparent;
+}
+.first-line {
+    display: inline-block;
+    margin-top: 28px;
+}
+
+.second-line {
+    display: inline-block;
+    margin-top: 15px;
+}
+.first-product {
+    background-color: #FFFFFF;
+    width: 24%;
+    box-shadow: 0 0 10px rgba(0,0,0,0.07);
+    border-radius: 12px;
+    height: 446px;
+    display: inline-block;
+    margin-right: 8px;
+}
+.production-container {
+    padding: 8px;
+}
+.first-product-description_1 p {
+    margin: 0px;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 8px;
+    font-size: 16px;
+    font-weight: 700;
+    text-transform: capitalize;
+    box-sizing: border-box;
+}
+.first-product-description_2 {
+    margin: 0px;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 4px;
+    color: #667479;
+    font-size: 12px;
+}
+.gift {
+    background-color: #FCEED5;
+    margin-top: 10px;
+    margin-left: 8px;
+    margin-right: 8px;
+    border-radius: 8px;
+    padding-top: 8px;
+    padding-bottom: 6px;
+}
+.gift span {
+    font-size: 14px;
+    font-weight: 700;
+    color: #003459;
+}
+.test {
+    display: inline-block;
+}
+.first-product-description_3 p {
+    margin: 0px;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 8px;
+    font-size: 16px;
+    font-weight: 700;
+    text-transform: capitalize;
+    box-sizing: border-box;
+    min-height: 52px;
+}
